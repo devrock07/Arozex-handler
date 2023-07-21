@@ -1,6 +1,6 @@
 # so yea node_modules cant be uploaded here so it after you upload this on vps or replit it will ask (Need to install the following packages: node@20.4.0 Ok to proceed? (y) ) 
 so you just write y in console and enter and done after then go to node_modules/discord.js/node_modules/@discordjs/rest/dist/index.js and just update the code with this if
-you are in vps or just got this repl : 
+you are in vps:-   || or just fork this repl : (https://replit.com/@devrockYT/Arozex-Handler) 
 
 "use strict";
 "use strict";
